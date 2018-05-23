@@ -16,6 +16,6 @@ C&C is a monthly workshop series which offers participants an opportunity to eng
    a. August - Git, GitHub, LoboGit part 2  
    b. September - Intro to R and RStudio  
    c. October - Natural Language Processing with Python  
-   d. November - Database Fundamentals part 2: MySQ and Postgres  
-   e. December - NoSQL and Graph Databases with Elastic, MongoDB and (maybe) NodeJS  
+   d. November - Database Fundamentals part 2: MySQL and Postgres  
+   e. December - NoSQL and (maybe) Graph Databases with Elastic, MongoDB and (maybe) NodeJS  
    
