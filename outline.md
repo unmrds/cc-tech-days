@@ -4,18 +4,18 @@ C&C is a monthly workshop series which offers participants an opportunity to eng
 
 ## Outline
 
-1. Overview
-   a. About C&C - goals and motivations
-   b. Architecture overview
-2. Updates to architecture
-   a. Same technology stack, different deployment
-   b. Rationale for change
-   c. Specifics
-   d. Benefits
-3. Upcoming sessions (subject to change depending on availability and interest of guest presenters)
-   a. August - Git, GitHub, LoboGit part 2
-   b. September - Intro to R and RStudio
-   c. October - Natural Language Processing with Python
-   d. November - Database Fundamentals part 2: MySQ and Postgres
-   e. December - NoSQL and Graph Databases with Elastic, MongoDB and (maybe) NodeJS
+1. Overview  
+   a. About C&C - goals and motivations  
+   b. Architecture overview  
+2. Updates to architecture  
+   a. Same technology stack, different deployment  
+   b. Rationale for change  
+   c. Specifics  
+   d. Benefits  
+3. Upcoming sessions (subject to change depending on availability and interest of guest presenters)  
+   a. August - Git, GitHub, LoboGit part 2  
+   b. September - Intro to R and RStudio  
+   c. October - Natural Language Processing with Python  
+   d. November - Database Fundamentals part 2: MySQ and Postgres  
+   e. December - NoSQL and Graph Databases with Elastic, MongoDB and (maybe) NodeJS  
    
